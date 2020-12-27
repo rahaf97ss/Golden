@@ -1,0 +1,17 @@
+
+ .head1{
+  color:brown;
+ display: inline;
+ border: 4px solid tomato;
+  padding: 2px;
+
+ }
+.paragraph{
+ color:lightslategray;
+ text-align: center;
+  font-size: 200 px; 
+}
+ .img{
+  width: 150;
+  }
+    
